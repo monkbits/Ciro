@@ -1,0 +1,10 @@
+what now. see i have made this far
+that my application is now saving text.
+
+I know its using file system which is not quite impressive but still i am happy with it.
+
+This thing is how much text i can put here its like working as a  notes app but i wanna know how much text i can store will any  scrollbar come. and yes scrollbar is coming here.
+
+now i wonder if i can use this thing as code editor as well can i make this thing as code editor? 
+
+i will add lines on left 
